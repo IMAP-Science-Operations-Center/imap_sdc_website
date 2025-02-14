@@ -1,8 +1,11 @@
 # IMAP Science Data Center (SDC)
 
 The **Interstellar Mapping and Acceleration Probe (IMAP)** Science Data Center (SDC) is the central data repository for all science data from the IMAP mission and its [ten instruments](https://imap.princeton.edu/spacecraft/instruments):
+
+
 <img width="100%" src="https://raw.githubusercontent.com/IMAP-Science-Operations-Center/imap-sdc-website/refs/heads/main/images/instruments-ENAs.jpg">
 <img width="100%" src="https://raw.githubusercontent.com/IMAP-Science-Operations-Center/imap-sdc-website/refs/heads/main/images/instruments-EnergeticElectrons.jpg">
+<p></p>
 
 Located at the **[Laboratory for Atmospheric and Space Physics (LASP)](https://lasp.colorado.edu/)** at the University of Colorado, Boulder, the IMAP SDC is responsible for science data processing and distribution of science data to the IMAP instrument teams (ITs) and the scientific community. The SDC responsibilities can be summarized as follows:
 
