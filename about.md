@@ -2,7 +2,7 @@
 
 The **Interstellar Mapping and Acceleration Probe (IMAP)** Science Data Center (SDC) is the central data repository for all science data from the IMAP mission and its [ten instruments](https://imap.princeton.edu/spacecraft/instruments):
 
-
+<p></p>
 <img width="100%" src="https://raw.githubusercontent.com/IMAP-Science-Operations-Center/imap-sdc-website/refs/heads/main/images/instruments-ENAs.jpg">
 <img width="100%" src="https://raw.githubusercontent.com/IMAP-Science-Operations-Center/imap-sdc-website/refs/heads/main/images/instruments-EnergeticElectrons.jpg">
 <p></p>
