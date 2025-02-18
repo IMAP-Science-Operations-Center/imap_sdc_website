@@ -7,7 +7,7 @@ and Python library for accessing the data.  See the
 [supporting documentation](https://github.com/IMAP-Science-Operations-Center/imap-data-access/blob/main/README.md) for
 further details.
 
-A simple example of how to query and download data is provided below:
+Some examples of how to query and download data is provided below:
 
 ### Installation and Help
 
@@ -29,7 +29,7 @@ Add the '-h' help flag with any base command for more information
 
 #### Query / Search for data
 
-Example: Find all files from the SWE instrument
+*Example: Find all files from the SWE instrument*
 
 ```bash
 $ imap-data-access query --instrument swe
@@ -43,7 +43,7 @@ Found [3] matching files
 |-----------------------------------------------------------------------------------------------------------------------------------|
 ```
 
-Example: Find all files during the year 2024 and return the response as raw json
+*Example: Find all files during the year 2024 and return the response as raw json*
 
 ```bash
 $ imap-data-access query --start-date 20240101 --end-date 20241231 --output-format json
@@ -53,7 +53,7 @@ $ imap-data-access query --start-date 20240101 --end-date 20241231 --output-form
 
 #### Download a file
 
-Example: Download a level 0 SWE file on 2024/01/05
+*Example: Download a level 0 SWE file on 2024/01/05*
 
 ```bash
 $ imap-data-access download imap/swe/l0/2024/01/imap_swe_l0_sci_20240105_v001.pkts
