@@ -1,5 +1,3 @@
-# Software
-
 ## IMAP Data Access Software
 
 Users may programmatically access IMAP data through the IMAP Data Access API, which provides both a command-line utility
